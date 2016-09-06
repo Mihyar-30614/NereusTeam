@@ -4,9 +4,9 @@
 
 ## Team
 
-  - __Product Owner__: Salah
-  - __Scrum Master__: Saif
-  - __Development Team Members__: Bader
+  - __Product Owner__: Mihyar
+  - __Scrum Master__: Tawfik
+  - __Development Team Members__: Mihyar, Tawfik, Maryam
 
 ## Table of Contents
 
